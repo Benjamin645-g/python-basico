@@ -1,1 +1,2 @@
-# python-basico
+# Python basico
+> ejercicio de python 
